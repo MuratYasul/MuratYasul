@@ -1,8 +1,7 @@
+Welcoming Page
 
 Welcome to git!
 
 I hope you are having fun.
 
-Missing Java, maybe.
-
-All is well!
+Missing Java may be.
